@@ -1,5 +1,5 @@
 # TCGA_methylation
-This repository includes the necessary files to perform differential methylation analysis of TCGA data. The code itself has functions that download the data directly from TCGA.
+This repository includes the necessary files to perform differential methylation analysis of TCGA data. The code itself include functions to download the data directly from TCGA.
   
   1- The R code used in the analysis (Rcode_TCGA_DMP_Ezra.R)
   
